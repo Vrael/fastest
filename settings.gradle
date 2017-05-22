@@ -13,5 +13,5 @@ rootProject.name = 'Fastest'
 
 include 'config-server'
 include 'discovery-server'
-include 'TestModel'
-include 'TestApi'
+include 'test-model-data-service'
+include 'test-api-service'
