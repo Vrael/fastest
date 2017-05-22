@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="Test/|Test/bin/|Test/bin/com/fastest/services/test/config/|Test/bin/com/fastest/services/test/controllers/|Test/build/|Test/build/classes/main/|Test/build/tmp/compileJava/emptySourcePathRef/|Test/gradle/wrapper/|Test/src/main/java/com/fastest/services/test/config/|Test/src/main/java/com/fastest/services/test/controllers/|Test/src/main/resources/|Test/src/test/java/com/fastest/services/test/controllers/|TestModel/|TestModel/bin/com/fastest/data/test/models/|TestModel/gradle/wrapper/|TestModel/src/main/java/com/fastest/data/test/models/|TestModel/src/test/java/com/fastest/data/test/models/|gradle/wrapper/|gradle/|TestApi/|TestApi/bin/|TestApi/bin/com/fastest/services/test/config/|TestApi/bin/com/fastest/services/test/controllers/|TestApi/build/|TestApi/build/classes/main/|TestApi/build/tmp/compileJava/emptySourcePathRef/|TestApi/src/main/java/com/fastest/services/test/config/|TestApi/src/main/java/com/fastest/services/test/controllers/|TestApi/src/main/resources/|TestApi/src/test/java/com/fastest/services/test/controllers/|build/libs/|build/tmp/jar/|build/|build/tmp/" kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.buildship.core.gradleclasspathcontainer"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8/"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
